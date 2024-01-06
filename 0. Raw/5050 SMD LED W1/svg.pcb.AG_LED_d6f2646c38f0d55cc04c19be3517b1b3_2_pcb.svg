@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.737 18.142" gorn="0" width="0.204681in" height="0.251972in" x="0in" y="0in" version="1.2"  id="svg851">
+    <desc >
+        <referenceFile >5050_pcb.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata857">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs855"/>
+    <g gorn="0.3" partID="861592720"  id="g844">
+        <g gorn="0.3.0"  id="copper1">
+            <rect gorn="0.3.0.0" width="2.8340001" height="4.2519999" x="1.415" fill="#f7bd13" y="13.89"  stroke-width="0" id="connector0pad"/>
+            <rect gorn="0.3.0.1" width="2.8340001" height="4.2519999" x="1.415" fill="#f7bd13" y="0"  stroke-width="0" id="connector1pad"/>
+            <rect gorn="0.3.0.2" width="2.836" height="4.2519999" x="5.9499998" fill="#f7bd13" y="13.89"  stroke-width="0" id="connector2pad"/>
+            <rect gorn="0.3.0.3" width="2.836" height="4.2519999" x="5.9499998" fill="#f7bd13" y="0"  stroke-width="0" id="connector3pad"/>
+            <rect gorn="0.3.0.4" width="2.835" height="4.2519999" x="10.487" fill="#f7bd13" y="13.89"  stroke-width="0" id="connector4pad"/>
+            <rect gorn="0.3.0.5" width="2.835" height="4.2519999" x="10.487" fill="#f7bd13" y="0"  stroke-width="0" id="connector5pad"/>
+        </g>
+    </g>
+    <g gorn="0.4" partID="861592721"  id="g849">
+        <g gorn="0.4.0" stroke="#000000" stroke-opacity="1"  stroke-width="1" id="silkscreen">
+            <polyline gorn="0.4.0.0" style="stroke-miterlimit:10;stroke-dasharray:none;" stroke="#000000" points="13.82,1.985,14.455,1.985,14.455,16.158,13.82,16.158" fill="none" stroke-opacity="1"  stroke-miterlimit="10" stroke-width="0.40000001" id="path"/>
+            <polyline gorn="0.4.0.1" style="stroke-miterlimit:10;" stroke="#000000" points="0.917,16.158,0.282,16.158,0.282,1.985,0.917,1.985" fill="none" stroke-opacity="1"  stroke-miterlimit="10" stroke-width="0.40000001" id="path_2_"/>
+            <path gorn="0.4.0.2" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke="#000000" d="m 0.282,11.973057 1.6749012,1.674901" fill="none" stroke-opacity="1"  stroke-width="0.40000036" id="path859"/>
+        </g>
+    </g>
+</svg>

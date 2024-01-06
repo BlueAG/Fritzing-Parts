@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="SCR TO220_AG_1" referenceFile="voltage_regulator_lm317.fzp" fritzingVersion="0.1.1255">
+ <version>4</version>
+ <author>Old Grey, arnab.blue</author>
+ <title>SCR</title>
+ <label>SCR</label>
+ <date>Wed May 16 2018</date>
+ <tags>
+  <tag>SCR</tag>
+  <tag>TO220</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 6</property>
+  <property name="family">SCR</property>
+  <property name="layer"></property>
+  <property name="package">TO220 [THT]</property>
+  <property name="part number"></property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Silicon Controlled Rectifier - TO220&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/SCR TO220_AG_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/SCR TO220_AG_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/SCR TO220_AG_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/SCR TO220_AG_1_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="male" id="connector0" name="K">
+   <description>K</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" layer="breadboard" legId="connector0leg"/>
+    </breadboardView>0
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pad" layer="copper0"/>
+     <p svgId="connector0pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector1" name="A">
+   <description>A</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard" legId="connector1leg"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pad" layer="copper0"/>
+     <p svgId="connector1pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector2" name="G">
+   <description>G</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard" legId="connector2leg"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pad" layer="copper0"/>
+     <p svgId="connector2pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="28.8px" height="28.8px" viewBox="0 0 28.8 28.8" enable-background="new 0 0 28.8 28.8" xml:space="preserve">
+<g>
+	<g id="silkscreen">
+		<rect fill="none" stroke="#000000" stroke-width="0.72" stroke-miterlimit="10" width="28.8" height="28.8"/>
+		<text transform="matrix(1 0 0 1 1.4736 20.1709)" font-family="'DroidSans'" font-size="6">label</text>
+		<text transform="matrix(1 0 0 1 1.4736 12.6582)" font-family="'DroidSans'" font-size="6">part</text>
+	</g>
+	<g id="copper1">
+		<g id="copper0">
+			
+				<circle id="connector0pin" fill="none" stroke="#FFCC00" stroke-width="1.5" stroke-miterlimit="10" cx="3.6" cy="25.198" r="2.126"/>
+			
+				<circle id="connector1pin" fill="none" stroke="#FFCC00" stroke-width="1.5" stroke-miterlimit="10" cx="10.8" cy="25.198" r="2.126"/>
+			
+				<circle id="connector2pin" fill="none" stroke="#FFCC00" stroke-width="1.5" stroke-miterlimit="10" cx="18" cy="25.198" r="2.126"/>
+			
+				<circle id="connector3pin" fill="none" stroke="#FFCC00" stroke-width="1.5" stroke-miterlimit="10" cx="25.2" cy="25.199" r="2.126"/>
+			
+				<circle id="connector4pin" fill="none" stroke="#FFCC00" stroke-width="1.5" stroke-miterlimit="10" cx="25.2" cy="3.602" r="2.126"/>
+			
+				<circle id="connector5pin" fill="none" stroke="#FFCC00" stroke-width="1.5" stroke-miterlimit="10" cx="18" cy="3.601" r="2.126"/>
+			<circle id="nonconn1" fill="#FFCC00" cx="10.8" cy="3.601" r="2.126"/>
+			<circle id="nonconn0" fill="#FFCC00" cx="3.6" cy="3.601" r="2.126"/>
+		</g>
+	</g>
+</g>
+</svg>

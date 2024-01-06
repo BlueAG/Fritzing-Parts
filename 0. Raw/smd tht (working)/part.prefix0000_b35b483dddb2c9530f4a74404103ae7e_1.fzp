@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion="0.7.2b" moduleId="prefix0000_b35b483dddb2c9530f4a74404103ae7e_1" referenceFile="sparkfun-electromechanical-battery-12pth.fzp">
+ <!-- generated from Sparkfun Eagle Library 'SparkFun-Electromechanical' BATTERY 12PTH -->
+ <version>4</version>
+ <date>Sun Jun 21 2020</date>
+ <label>BAT</label>
+ <author>www.fritzing.org</author>
+ <description>&lt;b>Battery Holders&lt;/b>&#xd;
+Various common sizes : AA, AAA, 20mm coin cell and 12mm coin cell.</description>
+ <title>smd tht</title>
+ <tags>
+  <tag>BATTCON_12MM_PTH</tag>
+  <tag>BATTERY</tag>
+  <tag>12PTH</tag>
+ </tags>
+ <properties>
+  <property name="variant">12pth</property>
+  <property name="part number"></property>
+  <property name="package">battcon</property>
+  <property name="family">fuck</property>
+  <property name="layer"></property>
+ </properties>
+ <views>
+  <breadboardView>
+   <layers image="breadboard/prefix0000_b35b483dddb2c9530f4a74404103ae7e_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/prefix0000_b35b483dddb2c9530f4a74404103ae7e_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/prefix0000_b35b483dddb2c9530f4a74404103ae7e_1_pcb.svg">
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+   </layers>
+  </pcbView>
+  <iconView>
+   <layers image="icon/prefix0000_b35b483dddb2c9530f4a74404103ae7e_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+ </views>
+ 
+ <connectors>
+ 
+  <connector name="+" id="connector0" type="male">
+   <description>+</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pad" layer="copper0"/>
+     <p svgId="connector0pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  
+  <connector name="-" id="connector2" type="male">
+   <description>-</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  
+ </connectors>
+ <buses/>
+</module>

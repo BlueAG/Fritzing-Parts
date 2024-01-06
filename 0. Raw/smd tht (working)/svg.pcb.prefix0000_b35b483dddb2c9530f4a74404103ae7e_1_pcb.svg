@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" viewBox="0 0 15.5702 12.571" width="0.613in"  x="0in" version="1.2" y="0in" height="0.49492in">
+    <desc>
+        <referenceFile>sparkfun-electromechanical_battcon_12mm_pth_pcb.svg</referenceFile>
+    </desc>
+    <g gorn="0.0" id="copper1" >
+        <circle gorn="0.0.0" r="1.0541" id="connector0pad" fill="none"  cx="1.1811" cy="6.11938" stroke="#F7BD13" stroke-width="0.254" connectorname="VCC@1"/>
+        <path d="m0,4.93828 2.3622,0 0,2.3622 -2.3622,0 0,-2.3622zM0.254,6.11938a0.9271,0.9271 0 1 0 1.8542,0 0.9271,0.9271 0 1 0 -1.8542,0z&#xd;&#xa;" fill="#F7BD13"  stroke="none" stroke-width="0"/>
+        <circle gorn="0.0.2" r="1.0541" id="connector1pad" fill="none"  cx="14.3891" cy="6.11938" stroke="#F7BD13" stroke-width="0.254" connectorname="VCC@2"/>
+        <path d="m13.208,4.93828 2.3622,0 0,2.3622 -2.3622,0 0,-2.3622zM13.462,6.11938a0.9271,0.9271 0 1 0 1.8542,0 0.9271,0.9271 0 1 0 -1.8542,0z&#xd;&#xa;" fill="#F7BD13"  stroke="none" stroke-width="0"/>
+        <rect gorn="0.0.4" width="7.62" id="connector2pad" fill="#F7BD13"  x="3.9751" stroke="none" stroke-width="0" y="2.30938" stroke-linecap="round" connectorname="GND" height="7.62"/>
+        <g gorn="0.0.5" id="copper0" >
+            <circle gorn="0.0.5.0" r="1.0541" id="connector0pad" fill="none"  cx="1.1811" cy="6.11938" stroke="#F7BD13" stroke-width="0.254" connectorname="VCC@1"/>
+            <path d="m0,4.93828 2.3622,0 0,2.3622 -2.3622,0 0,-2.3622zM0.254,6.11938a0.9271,0.9271 0 1 0 1.8542,0 0.9271,0.9271 0 1 0 -1.8542,0z&#xd;&#xa;" fill="#F7BD13"  stroke="none" stroke-width="0"/>
+            <circle gorn="0.0.5.2" r="1.0541" id="connector1pad" fill="none"  cx="14.3891" cy="6.11938" stroke="#F7BD13" stroke-width="0.254" connectorname="VCC@2"/>
+            <path d="m13.208,4.93828 2.3622,0 0,2.3622 -2.3622,0 0,-2.3622zM13.462,6.11938a0.9271,0.9271 0 1 0 1.8542,0 0.9271,0.9271 0 1 0 -1.8542,0z&#xd;&#xa;" fill="#F7BD13"  stroke="none" stroke-width="0"/>
+        </g>
+    </g>
+    <g gorn="0.1" id="silkscreen" >
+        <line class="other" y1="9.92938"  y2="12.4694" stroke="#f0f0f0" stroke-width="0.2032" x1="1.4351" x2="3.9751" stroke-linecap="round"/>
+        <line class="other" y1="12.4694"  y2="12.4694" stroke="#f0f0f0" stroke-width="0.2032" x1="3.9751" x2="11.5951" stroke-linecap="round"/>
+        <line class="other" y1="12.4694"  y2="9.92938" stroke="#f0f0f0" stroke-width="0.2032" x1="11.5951" x2="14.1351" stroke-linecap="round"/>
+        <line class="other" y1="9.92938"  y2="8.65938" stroke="#f0f0f0" stroke-width="0.2032" x1="14.1351" x2="14.1351" stroke-linecap="round"/>
+        <line class="other" y1="9.92938"  y2="8.65938" stroke="#f0f0f0" stroke-width="0.2032" x1="1.4351" x2="1.4351" stroke-linecap="round"/>
+        <line class="other" y1="3.57938"  y2="2.05538" stroke="#f0f0f0" stroke-width="0.2032" x1="1.4351" x2="1.4351" stroke-linecap="round"/>
+        <line class="other" y1="3.57938"  y2="2.05538" stroke="#f0f0f0" stroke-width="0.2032" x1="14.1351" x2="14.1351" stroke-linecap="round"/>
+        <path class="other" d="M4.6101,0.53138 A4.0693,4.0693 0 0 0 10.9601,0.53138" fill="none"  stroke-width="0.2032" stroke="#f0f0f0"/>
+        <path class="other" d="M1.4351,2.05538 A1.99996,1.99996 0 0 1 4.6101,0.53138" fill="none"  stroke-width="0.2032" stroke="#f0f0f0"/>
+        <path class="other" d="M14.1351,2.05538 A1.95278,1.95278 0 0 0 10.9601,0.53138" fill="none"  stroke-width="0.2032" stroke="#f0f0f0"/>
+    </g>
+</svg>
