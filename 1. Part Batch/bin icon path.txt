@@ -1,0 +1,5 @@
+for New Batch files:
+C:\Users\***\Documents\Fritzing\bins
+
+for Fritzing core icon:
+C:\Users\***\AppData\Local\Programs\Fritzing\fritzing-parts\bins
