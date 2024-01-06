@@ -1,2 +1,2 @@
 # Fritzing-Parts
-New Created, Edited, Updated, Custom electronics parts.
+New Created, Edited, Updated, Custom, Requested electronics parts.
